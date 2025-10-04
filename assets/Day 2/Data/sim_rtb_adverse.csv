@@ -1,0 +1,263 @@
+patient_ref,adverse_events,adverse_event_date
+RB0004,Anaemia,2024-01-05
+RB0004,Blood and lymphatic system disorder,2024-06-25
+RB0004,Blood and lymphatic system disorder,2024-07-16
+RB0004,Blood and lymphatic system disorder,2024-07-13
+RB0004,Nervous system disorders,2024-05-19
+RB0006,Anaemia,2023-11-29
+RB0009,Gastro-intestinal disorders,2024-03-28
+RB0009,Infections and infestations,2023-04-14
+RB0010,Nervous system disorders,2024-01-30
+RB0010,Infections and infestations,2024-03-24
+RB0010,Anaemia,2024-01-19
+RB0010,Infections and infestations,2023-12-22
+RB0010,Infections and infestations,2024-01-22
+RB0011,Nervous system disorders,2024-02-01
+RB0018,Infections and infestations,2023-12-16
+RB0018,Infections and infestations,2023-11-08
+RB0018,Infections and infestations,2023-10-20
+RB0028,Gastro-intestinal disorders,2022-11-05
+RB0028,Gastro-intestinal disorders,2024-12-13
+RB0028,Gastro-intestinal disorders,2022-09-07
+RB0035,Infections and infestations,2023-09-12
+RB0035,General disorders and administration site conditions,2023-10-01
+RB0035,Anaemia,2023-08-28
+RB0035,Anaemia,2023-07-14
+RB0035,Infections and infestations,2023-09-26
+RB0036,Blood and lymphatic system disorder,2023-12-11
+RB0036,Anaemia,2023-05-16
+RB0036,Gastro-intestinal disorders,2022-09-08
+RB0036,Infections and infestations,2023-08-08
+RB0039,Anaemia,2023-06-06
+RB0040,Infections and infestations,2021-08-01
+RB0040,Infections and infestations,2020-11-09
+RB0040,Anaemia,2020-10-20
+RB0040,Infections and infestations,2021-07-28
+RB0040,Infections and infestations,2020-12-22
+RB0044,Infections and infestations,2024-05-16
+RB0044,Gastro-intestinal disorders,2024-04-02
+RB0044,Infections and infestations,2024-05-14
+RB0051,Infections and infestations,2024-07-03
+RB0054,Gastro-intestinal disorders,2023-04-20
+RB0054,Blood and lymphatic system disorder,2022-11-13
+RB0054,Gastro-intestinal disorders,2023-01-02
+RB0062,Infections and infestations,2020-06-29
+RB0062,Infections and infestations,2020-05-22
+RB0062,Infections and infestations,2020-09-07
+RB0066,Anaemia,2024-12-28
+RB0073,Infections and infestations,2023-09-15
+RB0073,Blood and lymphatic system disorder,2023-03-17
+RB0074,Blood and lymphatic system disorder,2023-11-02
+RB0074,Infections and infestations,2024-04-13
+RB0074,General disorders and administration site conditions,2023-11-11
+RB0074,Anaemia,2023-09-08
+RB0074,Gastro-intestinal disorders,2023-09-20
+RB0091,Nervous system disorders,2022-07-18
+RB0091,Infections and infestations,2021-10-24
+RB0091,Blood and lymphatic system disorder,2022-06-28
+RB0105,Infections and infestations,2023-05-18
+RB0105,Blood and lymphatic system disorder,2023-02-04
+RB0105,Blood and lymphatic system disorder,2024-09-29
+RB0105,Nervous system disorders,2024-01-09
+RB0107,Blood and lymphatic system disorder,2023-10-30
+RB0107,Infections and infestations,2021-07-11
+RB0107,Blood and lymphatic system disorder,2022-05-06
+RB0107,Anaemia,2024-11-24
+RB0107,Nervous system disorders,2020-12-01
+RB0109,Nervous system disorders,2022-04-17
+RB0109,General disorders and administration site conditions,2024-11-07
+RB0109,Infections and infestations,2024-04-07
+RB0109,Infections and infestations,2023-11-06
+RB0116,Blood and lymphatic system disorder,2024-02-15
+RB0116,Infections and infestations,2024-03-21
+RB0116,Anaemia,2024-08-18
+RB0118,Nervous system disorders,2022-05-20
+RB0118,Infections and infestations,2023-03-08
+RB0118,Anaemia,2021-12-09
+RB0118,Infections and infestations,2022-04-17
+RB0122,Infections and infestations,2024-09-18
+RB0122,Blood and lymphatic system disorder,2024-09-17
+RB0122,Nervous system disorders,2024-05-12
+RB0122,Anaemia,2024-11-25
+RB0122,Blood and lymphatic system disorder,2024-06-05
+RB0141,Blood and lymphatic system disorder,2022-12-28
+RB0141,Infections and infestations,2022-11-10
+RB0144,Gastro-intestinal disorders,2022-10-21
+RB0144,Infections and infestations,2023-02-06
+RB0144,Infections and infestations,2022-12-08
+RB0150,Infections and infestations,2022-07-04
+RB0157,Infections and infestations,2024-12-11
+RB0157,Anaemia,2024-10-04
+RB0157,Infections and infestations,2024-09-21
+RB0159,Anaemia,2023-02-22
+RB0159,Blood and lymphatic system disorder,2022-07-02
+RB0159,Infections and infestations,2024-04-17
+RB0161,Infections and infestations,2023-01-08
+RB0161,General disorders and administration site conditions,2023-11-04
+RB0161,Anaemia,2024-07-30
+RB0165,Nervous system disorders,2024-07-15
+RB0169,Anaemia,2024-02-16
+RB0169,Nervous system disorders,2024-07-20
+RB0169,Infections and infestations,2021-09-05
+RB0169,Anaemia,2024-11-01
+RB0169,Anaemia,2024-05-18
+RB0170,Anaemia,2022-08-10
+RB0170,Anaemia,2022-04-29
+RB0170,Nervous system disorders,2021-10-17
+RB0170,Gastro-intestinal disorders,2022-06-15
+RB0185,Anaemia,2024-01-23
+RB0188,Infections and infestations,2024-08-07
+RB0188,Infections and infestations,2024-06-04
+RB0188,Blood and lymphatic system disorder,2024-07-28
+RB0189,Gastro-intestinal disorders,2023-11-28
+RB0189,Blood and lymphatic system disorder,2023-12-23
+RB0189,Anaemia,2023-06-09
+RB0194,Anaemia,2024-03-11
+RB0194,Blood and lymphatic system disorder,2024-11-24
+RB0194,Nervous system disorders,2024-11-28
+RB0194,Infections and infestations,2024-08-28
+RB0196,Infections and infestations,2023-10-22
+RB0201,Anaemia,2023-09-09
+RB0205,Anaemia,2023-09-22
+RB0205,Infections and infestations,2023-05-31
+RB0205,Anaemia,2023-10-09
+RB0205,Anaemia,2022-06-10
+RB0207,General disorders and administration site conditions,2023-12-31
+RB0207,Blood and lymphatic system disorder,2023-09-12
+RB0207,Infections and infestations,2023-09-24
+RB0210,Infections and infestations,2024-03-16
+RB0210,General disorders and administration site conditions,2024-10-23
+RB0225,Infections and infestations,2024-09-29
+RB0225,Anaemia,2024-09-09
+RB0236,Blood and lymphatic system disorder,2021-12-27
+RB0236,Anaemia,2022-02-16
+RB0236,Nervous system disorders,2022-01-14
+RB0240,General disorders and administration site conditions,2024-09-15
+RB0240,Anaemia,2021-09-30
+RB0240,Infections and infestations,2022-12-19
+RB0240,Infections and infestations,2023-02-21
+RB0240,Gastro-intestinal disorders,2022-03-13
+RB0251,Infections and infestations,2023-11-12
+RB0251,Nervous system disorders,2024-07-21
+RB0253,General disorders and administration site conditions,2024-06-03
+RB0253,Anaemia,2024-04-30
+RB0253,Blood and lymphatic system disorder,2023-12-13
+RB0253,Gastro-intestinal disorders,2024-04-06
+RB0256,Infections and infestations,2024-04-08
+RB0256,Blood and lymphatic system disorder,2023-12-02
+RB0256,General disorders and administration site conditions,2023-11-28
+RB0256,General disorders and administration site conditions,2024-01-09
+RB0256,General disorders and administration site conditions,2024-03-23
+RB0261,Infections and infestations,2023-04-24
+RB0261,General disorders and administration site conditions,2022-06-19
+RB0261,Infections and infestations,2024-12-16
+RB0263,Infections and infestations,2023-01-08
+RB0273,General disorders and administration site conditions,2024-12-29
+RB0273,Anaemia,2024-07-28
+RB0273,Blood and lymphatic system disorder,2024-03-28
+RB0273,Gastro-intestinal disorders,2023-11-01
+RB0275,Anaemia,2024-01-23
+RB0275,Blood and lymphatic system disorder,2024-10-04
+RB0286,Infections and infestations,2024-04-07
+RB0286,Infections and infestations,2022-07-30
+RB0286,Infections and infestations,2024-01-26
+RB0294,Nervous system disorders,2022-07-08
+RB0295,Infections and infestations,2024-08-27
+RB0295,Infections and infestations,2023-12-17
+RB0296,General disorders and administration site conditions,2023-10-03
+RB0311,Gastro-intestinal disorders,2024-07-19
+RB0311,Anaemia,2023-06-15
+RB0311,Blood and lymphatic system disorder,2024-11-20
+RB0311,Infections and infestations,2024-09-07
+RB0314,Infections and infestations,2024-05-23
+RB0315,Blood and lymphatic system disorder,2023-07-06
+RB0315,Blood and lymphatic system disorder,2024-10-02
+RB0315,Anaemia,2023-11-06
+RB0315,Anaemia,2023-03-17
+RB0332,Infections and infestations,2019-12-25
+RB0333,Infections and infestations,2023-07-31
+RB0333,Anaemia,2023-12-21
+RB0333,Infections and infestations,2024-08-04
+RB0337,Blood and lymphatic system disorder,2022-11-24
+RB0337,Blood and lymphatic system disorder,2024-10-08
+RB0337,Anaemia,2022-10-31
+RB0340,Nervous system disorders,2024-04-08
+RB0340,Infections and infestations,2024-11-27
+RB0340,Nervous system disorders,2024-12-31
+RB0340,Nervous system disorders,2024-10-15
+RB0340,Anaemia,2024-01-14
+RB0342,Infections and infestations,2024-12-10
+RB0342,Gastro-intestinal disorders,2024-10-12
+RB0342,Infections and infestations,2024-11-05
+RB0349,Nervous system disorders,2024-06-28
+RB0349,Infections and infestations,2023-07-07
+RB0349,Blood and lymphatic system disorder,2023-12-09
+RB0349,Infections and infestations,2023-12-15
+RB0352,Infections and infestations,2022-05-13
+RB0357,Infections and infestations,2022-09-12
+RB0357,Gastro-intestinal disorders,2022-08-30
+RB0357,Nervous system disorders,2023-05-18
+RB0357,Infections and infestations,2022-04-10
+RB0362,Blood and lymphatic system disorder,2023-07-04
+RB0362,Anaemia,2023-10-06
+RB0367,Gastro-intestinal disorders,2024-06-12
+RB0368,Blood and lymphatic system disorder,2023-10-05
+RB0368,Anaemia,2024-11-25
+RB0382,Anaemia,2024-06-05
+RB0382,Anaemia,2024-03-14
+RB0382,Infections and infestations,2024-03-01
+RB0388,Infections and infestations,2020-12-07
+RB0388,Gastro-intestinal disorders,2020-12-16
+RB0388,Infections and infestations,2020-12-11
+RB0388,Nervous system disorders,2020-12-08
+RB0403,General disorders and administration site conditions,2020-10-17
+RB0403,Infections and infestations,2022-04-27
+RB0403,Anaemia,2024-10-26
+RB0403,Infections and infestations,2020-07-22
+RB0403,General disorders and administration site conditions,2019-01-27
+RB0410,Anaemia,2023-01-13
+RB0415,Gastro-intestinal disorders,2017-01-05
+RB0415,Anaemia,2016-10-02
+RB0415,Infections and infestations,2016-11-10
+RB0415,General disorders and administration site conditions,2016-09-02
+RB0415,Infections and infestations,2016-08-22
+RB0416,Nervous system disorders,2024-03-22
+RB0416,Infections and infestations,2024-04-11
+RB0416,Infections and infestations,2024-06-19
+RB0416,Infections and infestations,2023-07-25
+RB0416,Anaemia,2023-08-15
+RB0419,Infections and infestations,2022-10-22
+RB0419,Infections and infestations,2023-01-28
+RB0422,Infections and infestations,2024-11-23
+RB0424,Anaemia,2023-06-14
+RB0424,Infections and infestations,2024-03-20
+RB0424,Nervous system disorders,2023-12-06
+RB0431,Infections and infestations,2023-01-06
+RB0431,General disorders and administration site conditions,2024-04-07
+RB0431,General disorders and administration site conditions,2023-02-04
+RB0431,Anaemia,2022-06-22
+RB0435,Infections and infestations,2024-05-14
+RB0435,Infections and infestations,2023-03-29
+RB0435,Infections and infestations,2022-07-07
+RB0435,Anaemia,2024-10-18
+RB0447,Blood and lymphatic system disorder,2024-07-28
+RB0447,Infections and infestations,2023-04-01
+RB0447,Gastro-intestinal disorders,2024-01-02
+RB0447,Blood and lymphatic system disorder,2024-07-30
+RB0447,Gastro-intestinal disorders,2022-11-06
+RB0450,Anaemia,2024-06-22
+RB0450,Blood and lymphatic system disorder,2024-12-28
+RB0450,Blood and lymphatic system disorder,2024-02-20
+RB0450,Blood and lymphatic system disorder,2024-01-29
+RB0450,Infections and infestations,2024-08-26
+RB0451,Gastro-intestinal disorders,2024-03-30
+RB0455,Infections and infestations,2022-10-16
+RB0455,Infections and infestations,2024-12-23
+RB0464,Anaemia,2023-12-08
+RB0464,General disorders and administration site conditions,2022-12-11
+RB0464,Blood and lymphatic system disorder,2024-02-29
+RB0464,Infections and infestations,2021-07-20
+RB0464,General disorders and administration site conditions,2024-06-04
+RB0466,Infections and infestations,2021-11-11
+RB0466,General disorders and administration site conditions,2021-05-29
+RB0466,General disorders and administration site conditions,2022-01-29
