@@ -1,0 +1,468 @@
+patient_ref,father_cancer_status,mother_cancer_status,siblings_cancer_status,father_edu,mother_edu
+RB0001,No,No,No,Primary,Primary
+RB0002,Yes,No,Unknown,Secondary or High,Primary
+RB0003,No,No,No,Secondary or High,Secondary or High
+RB0004,No,No,No,Secondary or High,Primary
+RB0005,No,No,No,Secondary or High,Secondary or High
+RB0006,No,No,No,Primary,Secondary or High
+RB0007,No,Yes,No,Secondary or High,Secondary or High
+RB0008,No,No,No,Secondary or High,Primary
+RB0009,No,No,No,Secondary or High,Secondary or High
+RB0010,No,No,No,Secondary or High,Primary
+RB0011,Yes,No,No,Primary,No education
+RB0012,No,Unknown,Unknown,Primary,Primary
+RB0013,Yes,No,No,Secondary or High,Primary
+RB0014,No,Unknown,Yes,Primary,Primary
+RB0015,No,No,No,Secondary or High,Secondary or High
+RB0016,No,No,No,Primary,No education
+RB0017,No,No,No,Secondary or High,Primary
+RB0018,No,Yes,Yes,Primary,Primary
+RB0019,Unknown,No,No,Primary,Secondary or High
+RB0020,Unknown,No,No,Primary,No education
+RB0021,Yes,No,No,Primary,Primary
+RB0022,Yes,Unknown,No,Primary,Secondary or High
+RB0023,Unknown,No,Yes,Primary,No education
+RB0024,No,No,Yes,Primary,Primary
+RB0025,No,No,No,Secondary or High,Primary
+RB0026,Yes,No,Yes,Secondary or High,No education
+RB0027,No,Unknown,No,Secondary or High,Primary
+RB0028,No,No,No,Secondary or High,Primary
+RB0029,No,No,No,No education,Primary
+RB0030,No,Yes,No,No education,No education
+RB0031,Unknown,No,No,Secondary or High,No education
+RB0032,No,No,Yes,Primary,Secondary or High
+RB0033,No,Unknown,No,Primary,Primary
+RB0034,Yes,No,No,Secondary or High,Secondary or High
+RB0035,Yes,No,No,No education,Secondary or High
+RB0036,No,No,Yes,Primary,Secondary or High
+RB0037,No,No,No,Primary,Primary
+RB0038,No,No,No,Secondary or High,Secondary or High
+RB0039,No,No,Yes,Primary,Primary
+RB0040,No,Yes,Yes,Primary,Primary
+RB0041,No,No,No,Secondary or High,Primary
+RB0042,Unknown,No,No,Primary,Primary
+RB0043,Yes,No,No,Primary,No education
+RB0044,No,No,No,Secondary or High,Primary
+RB0045,No,Unknown,No,Primary,Primary
+RB0046,No,Unknown,No,Secondary or High,No education
+RB0047,No,No,Yes,Secondary or High,Secondary or High
+RB0048,No,Unknown,No,Secondary or High,Secondary or High
+RB0049,Unknown,No,No,No education,Primary
+RB0050,No,Yes,Yes,Secondary or High,Secondary or High
+RB0051,Yes,No,No,Primary,Secondary or High
+RB0052,Yes,Unknown,No,Primary,Primary
+RB0053,No,No,No,Primary,Primary
+RB0054,No,No,Yes,Secondary or High,Secondary or High
+RB0055,No,No,No,Primary,Secondary or High
+RB0056,No,No,No,Primary,Primary
+RB0057,No,No,No,No education,Secondary or High
+RB0058,No,No,No,Primary,Primary
+RB0059,No,No,No,Primary,Secondary or High
+RB0060,No,Yes,No,No education,No education
+RB0061,Unknown,No,No,Primary,Primary
+RB0062,No,Unknown,No,Secondary or High,Primary
+RB0063,Unknown,No,No,Primary,Primary
+RB0064,No,No,No,No education,Primary
+RB0065,Yes,No,No,Primary,Primary
+RB0066,No,No,No,Secondary or High,Primary
+RB0067,No,No,No,Primary,Primary
+RB0068,No,No,No,Primary,Primary
+RB0069,No,No,No,Secondary or High,Primary
+RB0070,No,No,No,Secondary or High,Primary
+RB0071,No,Unknown,Unknown,Secondary or High,No education
+RB0072,No,No,No,Secondary or High,Primary
+RB0073,Yes,Unknown,No,Secondary or High,Primary
+RB0074,No,Yes,No,Secondary or High,Primary
+RB0075,No,Yes,No,Primary,No education
+RB0076,Unknown,No,Unknown,Primary,No education
+RB0077,No,Unknown,No,Secondary or High,Secondary or High
+RB0078,No,No,No,No education,Secondary or High
+RB0079,No,No,No,Primary,Primary
+RB0080,No,Yes,No,Primary,Secondary or High
+RB0081,Unknown,Unknown,No,Secondary or High,Primary
+RB0082,No,Unknown,No,Primary,Primary
+RB0083,Yes,No,No,Secondary or High,Primary
+RB0084,No,No,Yes,Primary,Secondary or High
+RB0085,No,Yes,No,Primary,Secondary or High
+RB0086,No,Yes,No,Primary,Secondary or High
+RB0087,No,No,Yes,Secondary or High,Primary
+RB0088,Yes,No,No,No education,Secondary or High
+RB0089,No,No,Yes,Primary,Primary
+RB0090,Yes,No,No,Primary,Secondary or High
+RB0091,No,No,Yes,Primary,Primary
+RB0092,No,Unknown,Yes,Secondary or High,Primary
+RB0093,Yes,No,Yes,Secondary or High,No education
+RB0094,No,Yes,No,Primary,Primary
+RB0095,No,No,No,Primary,Secondary or High
+RB0096,No,No,Unknown,Primary,Primary
+RB0097,Yes,No,No,Secondary or High,Secondary or High
+RB0098,No,Yes,Unknown,Secondary or High,Primary
+RB0099,No,No,No,Secondary or High,Secondary or High
+RB0100,No,No,No,Primary,Secondary or High
+RB0101,Yes,No,Yes,Primary,No education
+RB0102,No,No,No,Secondary or High,No education
+RB0103,No,Unknown,No,Primary,Secondary or High
+RB0104,Yes,No,No,Primary,No education
+RB0105,No,Unknown,No,Secondary or High,Secondary or High
+RB0106,No,No,No,Primary,Secondary or High
+RB0107,No,Yes,No,Primary,Secondary or High
+RB0108,No,Yes,Yes,Primary,Secondary or High
+RB0109,Yes,No,Unknown,Primary,Secondary or High
+RB0110,No,Unknown,No,Secondary or High,Secondary or High
+RB0111,Yes,No,No,Primary,Primary
+RB0112,No,No,Unknown,Secondary or High,Primary
+RB0113,No,No,No,No education,Primary
+RB0114,No,No,Yes,Primary,Secondary or High
+RB0115,Unknown,Yes,No,Secondary or High,Secondary or High
+RB0116,No,Unknown,No,Primary,Secondary or High
+RB0117,No,No,No,Secondary or High,Primary
+RB0118,Unknown,No,No,Primary,Primary
+RB0119,Yes,No,No,Primary,Primary
+RB0120,No,No,No,Primary,No education
+RB0121,No,No,No,Secondary or High,Secondary or High
+RB0122,Yes,No,No,Primary,Primary
+RB0123,No,No,Yes,Secondary or High,Secondary or High
+RB0124,Yes,No,Yes,Secondary or High,Primary
+RB0125,Yes,No,No,Secondary or High,Primary
+RB0126,No,No,Yes,Primary,Secondary or High
+RB0127,Unknown,No,No,No education,Primary
+RB0128,No,Unknown,No,Primary,Secondary or High
+RB0129,Yes,No,No,Primary,Secondary or High
+RB0130,No,Unknown,No,Secondary or High,Secondary or High
+RB0131,No,No,No,Primary,Secondary or High
+RB0132,No,No,No,Primary,Secondary or High
+RB0133,No,No,No,Secondary or High,Secondary or High
+RB0134,No,Yes,No,Primary,Primary
+RB0135,Unknown,No,No,Secondary or High,Secondary or High
+RB0136,No,No,No,Secondary or High,Secondary or High
+RB0137,No,No,No,Primary,No education
+RB0138,No,No,No,Primary,No education
+RB0139,Yes,No,No,Secondary or High,Primary
+RB0140,Yes,Yes,No,Secondary or High,Primary
+RB0141,No,No,No,Primary,Secondary or High
+RB0142,No,No,No,Secondary or High,Secondary or High
+RB0143,Yes,No,No,Primary,No education
+RB0144,No,No,Unknown,Secondary or High,Primary
+RB0145,No,Unknown,Unknown,Secondary or High,No education
+RB0146,No,No,Unknown,Secondary or High,Secondary or High
+RB0147,Yes,No,No,Primary,Primary
+RB0148,No,Yes,Yes,Primary,Secondary or High
+RB0149,No,No,Unknown,Secondary or High,Secondary or High
+RB0150,Unknown,No,No,Primary,Secondary or High
+RB0151,No,No,No,Secondary or High,Secondary or High
+RB0152,Unknown,Yes,No,Primary,No education
+RB0153,No,No,No,Primary,Secondary or High
+RB0154,Yes,No,Yes,Secondary or High,Primary
+RB0155,No,No,No,Secondary or High,Primary
+RB0156,No,No,No,No education,No education
+RB0157,Yes,No,No,Primary,Primary
+RB0158,No,No,Yes,No education,Primary
+RB0159,No,Unknown,No,Secondary or High,No education
+RB0160,No,Unknown,No,Secondary or High,Primary
+RB0161,No,No,Yes,Secondary or High,No education
+RB0162,No,No,No,Primary,Primary
+RB0163,Unknown,No,No,Secondary or High,Secondary or High
+RB0164,No,No,No,Primary,Secondary or High
+RB0165,No,No,Yes,Primary,Primary
+RB0166,No,Yes,No,Secondary or High,Secondary or High
+RB0167,No,No,No,Primary,Primary
+RB0168,No,No,No,Primary,Secondary or High
+RB0169,No,Yes,No,Primary,Secondary or High
+RB0170,No,No,No,Primary,Secondary or High
+RB0171,No,No,No,Primary,Primary
+RB0172,Unknown,Yes,No,Secondary or High,Primary
+RB0173,No,No,No,Secondary or High,Primary
+RB0174,No,Yes,Unknown,Primary,Primary
+RB0175,No,No,No,Primary,Primary
+RB0176,No,No,No,Primary,Secondary or High
+RB0177,No,Yes,No,Secondary or High,No education
+RB0178,No,No,No,Secondary or High,Secondary or High
+RB0179,No,Yes,No,Secondary or High,Primary
+RB0180,No,No,No,No education,Secondary or High
+RB0181,No,Yes,No,Primary,Primary
+RB0182,No,No,No,Primary,Secondary or High
+RB0183,Unknown,No,No,Secondary or High,Secondary or High
+RB0184,No,Yes,Unknown,Primary,Secondary or High
+RB0185,Unknown,No,No,Secondary or High,Secondary or High
+RB0186,No,No,No,Primary,Secondary or High
+RB0187,No,No,No,Secondary or High,Secondary or High
+RB0188,No,No,No,No education,Primary
+RB0189,No,Yes,No,Primary,Primary
+RB0190,Yes,Unknown,No,Secondary or High,Primary
+RB0191,Unknown,No,No,Primary,Primary
+RB0192,No,No,No,Secondary or High,Secondary or High
+RB0193,Yes,Yes,No,Primary,Secondary or High
+RB0194,No,Yes,No,Primary,Primary
+RB0195,Yes,No,No,Secondary or High,Primary
+RB0196,No,No,Unknown,Primary,Primary
+RB0197,No,No,No,Secondary or High,Primary
+RB0198,No,No,No,Secondary or High,Secondary or High
+RB0199,Unknown,No,Yes,Primary,No education
+RB0200,No,Yes,No,No education,Primary
+RB0201,No,No,No,Primary,Primary
+RB0202,No,No,Yes,Primary,Secondary or High
+RB0203,Yes,No,Yes,Primary,Primary
+RB0204,No,No,No,Primary,Secondary or High
+RB0205,No,No,No,Primary,Primary
+RB0206,Yes,No,No,Secondary or High,Secondary or High
+RB0207,No,No,No,Secondary or High,Primary
+RB0208,No,Unknown,Yes,No education,No education
+RB0209,No,No,Yes,Secondary or High,Secondary or High
+RB0210,No,No,No,Primary,Primary
+RB0211,No,No,No,No education,Primary
+RB0212,No,No,Yes,Secondary or High,Secondary or High
+RB0213,Unknown,No,No,Secondary or High,Primary
+RB0214,Unknown,No,No,Secondary or High,Secondary or High
+RB0215,No,No,No,Primary,Primary
+RB0216,No,No,Yes,Secondary or High,Secondary or High
+RB0217,No,Yes,Yes,Secondary or High,Secondary or High
+RB0218,Yes,Unknown,Yes,Secondary or High,Secondary or High
+RB0219,No,Yes,No,Primary,Primary
+RB0220,No,No,No,Primary,Primary
+RB0221,No,No,No,Secondary or High,Secondary or High
+RB0222,No,No,Yes,No education,Secondary or High
+RB0223,No,No,No,Primary,Primary
+RB0224,No,No,No,Primary,Secondary or High
+RB0225,No,No,No,Primary,Primary
+RB0226,No,No,No,Primary,Secondary or High
+RB0227,No,No,No,Primary,Secondary or High
+RB0228,No,Unknown,No,Primary,Secondary or High
+RB0229,No,Unknown,No,No education,Primary
+RB0230,No,No,No,Primary,Secondary or High
+RB0231,No,No,No,No education,Primary
+RB0232,No,Unknown,No,No education,Secondary or High
+RB0233,No,No,Yes,Primary,Secondary or High
+RB0234,No,No,Unknown,Secondary or High,Primary
+RB0235,No,No,No,Secondary or High,Primary
+RB0236,No,Unknown,No,Secondary or High,No education
+RB0237,Unknown,No,No,Secondary or High,Primary
+RB0238,No,No,No,Secondary or High,Secondary or High
+RB0239,No,Yes,No,Secondary or High,Secondary or High
+RB0240,No,Yes,Yes,Secondary or High,Primary
+RB0241,No,Yes,Yes,Primary,Secondary or High
+RB0242,Unknown,Yes,No,Primary,Primary
+RB0243,Yes,No,Unknown,No education,Primary
+RB0244,No,No,Unknown,Primary,Secondary or High
+RB0245,No,Yes,No,Primary,Secondary or High
+RB0246,No,No,No,No education,Secondary or High
+RB0247,No,No,No,Secondary or High,No education
+RB0248,No,No,No,Secondary or High,Primary
+RB0249,Yes,Yes,Yes,Secondary or High,Secondary or High
+RB0250,Yes,Yes,No,Secondary or High,Primary
+RB0251,No,No,Yes,Primary,Secondary or High
+RB0252,No,No,Yes,Secondary or High,Secondary or High
+RB0253,No,No,No,Primary,Secondary or High
+RB0254,No,No,No,Primary,Primary
+RB0255,No,No,Yes,Primary,Secondary or High
+RB0256,Unknown,Unknown,No,Secondary or High,No education
+RB0257,No,Unknown,No,Primary,Primary
+RB0258,No,No,Yes,Secondary or High,Primary
+RB0259,No,No,No,Secondary or High,Secondary or High
+RB0260,No,Yes,No,Primary,Primary
+RB0261,No,Unknown,Yes,Secondary or High,Primary
+RB0262,No,No,No,Secondary or High,Secondary or High
+RB0263,Unknown,No,No,Secondary or High,Primary
+RB0264,Yes,No,Yes,Primary,Secondary or High
+RB0265,Yes,No,No,Secondary or High,Primary
+RB0266,Yes,No,Yes,Secondary or High,Secondary or High
+RB0267,No,No,No,Primary,Primary
+RB0268,No,Yes,Unknown,Secondary or High,Secondary or High
+RB0269,No,No,Unknown,Primary,Secondary or High
+RB0270,Yes,No,No,Secondary or High,Secondary or High
+RB0271,No,No,Yes,Secondary or High,No education
+RB0272,Yes,Unknown,No,Primary,Primary
+RB0273,Unknown,No,No,No education,Primary
+RB0274,No,No,No,Secondary or High,Secondary or High
+RB0275,No,No,Yes,Secondary or High,Secondary or High
+RB0276,No,No,No,Secondary or High,Primary
+RB0277,No,No,No,Secondary or High,Secondary or High
+RB0278,No,Yes,Yes,Primary,Primary
+RB0279,Yes,No,No,Secondary or High,Primary
+RB0280,No,No,No,Secondary or High,Secondary or High
+RB0281,No,Yes,Unknown,No education,Primary
+RB0282,No,No,Yes,Secondary or High,Secondary or High
+RB0283,No,Yes,No,Primary,Primary
+RB0284,No,Unknown,No,Secondary or High,Primary
+RB0285,No,No,Yes,Secondary or High,Secondary or High
+RB0286,Yes,No,Yes,Primary,Primary
+RB0287,Unknown,Unknown,No,Primary,Secondary or High
+RB0288,No,Unknown,No,Primary,Primary
+RB0289,No,No,No,Primary,Primary
+RB0290,No,No,No,Primary,Primary
+RB0291,No,No,No,Secondary or High,Primary
+RB0292,No,Yes,No,Secondary or High,Secondary or High
+RB0293,No,No,No,Primary,Primary
+RB0294,No,No,No,Secondary or High,Secondary or High
+RB0295,Yes,Unknown,Unknown,Secondary or High,Secondary or High
+RB0296,No,No,Yes,Primary,No education
+RB0297,No,No,No,Secondary or High,No education
+RB0298,No,No,Yes,Secondary or High,Primary
+RB0299,No,No,No,Secondary or High,Secondary or High
+RB0300,No,No,No,Primary,Primary
+RB0301,No,No,No,Primary,Secondary or High
+RB0302,No,No,No,Secondary or High,Secondary or High
+RB0303,No,Unknown,No,Secondary or High,No education
+RB0304,Yes,No,No,No education,Secondary or High
+RB0305,Unknown,No,No,Primary,No education
+RB0306,Yes,No,No,Primary,Primary
+RB0307,No,No,Unknown,Primary,Primary
+RB0308,Yes,No,Yes,Secondary or High,Secondary or High
+RB0309,No,No,Yes,Primary,Primary
+RB0310,No,No,No,Primary,Primary
+RB0311,Yes,Yes,Yes,Primary,Secondary or High
+RB0312,No,No,Yes,Secondary or High,Secondary or High
+RB0313,Yes,Yes,Yes,Primary,Secondary or High
+RB0314,No,No,Yes,Secondary or High,Primary
+RB0315,No,No,No,Secondary or High,Secondary or High
+RB0316,No,Yes,No,Primary,Primary
+RB0317,No,No,Yes,Secondary or High,No education
+RB0318,Unknown,No,No,Primary,Secondary or High
+RB0319,No,Unknown,No,Secondary or High,Primary
+RB0320,No,No,No,Secondary or High,Primary
+RB0321,Unknown,Unknown,No,No education,Secondary or High
+RB0322,Unknown,No,No,Primary,Primary
+RB0323,No,No,No,No education,Secondary or High
+RB0324,Yes,No,No,Primary,Primary
+RB0325,No,Unknown,No,Secondary or High,Secondary or High
+RB0326,Yes,Unknown,Unknown,Primary,Secondary or High
+RB0327,Unknown,No,No,Primary,No education
+RB0328,No,No,No,Secondary or High,No education
+RB0329,Yes,No,No,No education,Secondary or High
+RB0330,Yes,No,No,Secondary or High,Primary
+RB0331,No,Yes,No,Primary,Primary
+RB0332,Yes,No,No,Secondary or High,Secondary or High
+RB0333,No,No,No,Primary,Secondary or High
+RB0334,No,No,No,Primary,Primary
+RB0335,No,Yes,No,Secondary or High,Primary
+RB0336,No,Yes,No,Primary,No education
+RB0337,No,No,No,Secondary or High,Secondary or High
+RB0338,No,No,No,Primary,No education
+RB0339,No,No,Yes,Primary,Primary
+RB0340,No,Yes,No,Secondary or High,Secondary or High
+RB0341,No,No,No,Secondary or High,No education
+RB0342,Unknown,No,No,Primary,Secondary or High
+RB0343,No,No,No,Primary,Secondary or High
+RB0344,Unknown,No,No,No education,No education
+RB0345,No,Unknown,No,Primary,Primary
+RB0346,Yes,No,No,Secondary or High,Primary
+RB0347,Yes,Yes,No,Primary,Primary
+RB0348,No,Yes,No,Primary,Secondary or High
+RB0349,No,No,No,Primary,Secondary or High
+RB0350,Unknown,No,No,No education,Secondary or High
+RB0351,Yes,No,Yes,Secondary or High,No education
+RB0352,Yes,Yes,Yes,No education,Secondary or High
+RB0353,No,No,Yes,Secondary or High,Primary
+RB0354,No,Unknown,No,Primary,Primary
+RB0355,No,No,No,Primary,No education
+RB0356,No,No,No,Secondary or High,Secondary or High
+RB0357,Yes,No,No,Secondary or High,Primary
+RB0358,No,No,No,Secondary or High,Primary
+RB0359,No,Yes,No,Primary,Primary
+RB0360,Yes,No,No,Primary,No education
+RB0361,Unknown,No,No,Secondary or High,Secondary or High
+RB0362,No,No,No,Secondary or High,Primary
+RB0363,No,No,No,Secondary or High,Primary
+RB0364,Yes,No,Yes,Secondary or High,Secondary or High
+RB0365,No,No,No,Secondary or High,No education
+RB0366,No,Unknown,Yes,Primary,Secondary or High
+RB0367,No,No,No,No education,Secondary or High
+RB0368,No,No,No,No education,No education
+RB0369,No,No,No,Primary,Primary
+RB0370,No,No,Yes,Secondary or High,Secondary or High
+RB0371,No,No,No,Primary,Secondary or High
+RB0372,Unknown,No,No,Primary,Primary
+RB0373,No,No,Yes,Secondary or High,Primary
+RB0374,Unknown,No,Yes,Secondary or High,Secondary or High
+RB0375,No,No,No,Primary,Secondary or High
+RB0376,No,Yes,Unknown,Secondary or High,Primary
+RB0377,No,No,No,Secondary or High,Secondary or High
+RB0378,No,No,No,Secondary or High,Secondary or High
+RB0379,No,No,No,Primary,Secondary or High
+RB0380,No,No,No,Secondary or High,Secondary or High
+RB0381,No,No,Yes,Secondary or High,Primary
+RB0382,Yes,No,Yes,Primary,Secondary or High
+RB0383,Yes,No,No,Primary,No education
+RB0384,No,Yes,No,Secondary or High,Secondary or High
+RB0385,Unknown,Unknown,No,Primary,Primary
+RB0386,No,Yes,No,Primary,Secondary or High
+RB0387,No,Yes,Yes,Secondary or High,Primary
+RB0388,No,No,No,Primary,Secondary or High
+RB0389,No,No,No,Primary,Primary
+RB0390,No,No,No,Secondary or High,Primary
+RB0391,No,No,Yes,Secondary or High,Secondary or High
+RB0392,No,No,No,Primary,Secondary or High
+RB0393,No,Yes,No,Primary,Primary
+RB0394,No,No,Yes,Primary,Primary
+RB0395,No,Yes,No,Primary,Primary
+RB0396,Yes,No,No,Secondary or High,Secondary or High
+RB0397,No,No,No,Primary,Secondary or High
+RB0398,No,No,No,Secondary or High,Primary
+RB0399,No,No,No,Secondary or High,Primary
+RB0400,No,No,No,No education,Primary
+RB0401,No,No,No,Primary,Primary
+RB0402,Unknown,No,No,Primary,Secondary or High
+RB0403,No,No,No,Secondary or High,Secondary or High
+RB0404,No,No,No,Secondary or High,Secondary or High
+RB0405,No,No,No,Primary,Secondary or High
+RB0406,No,No,No,Secondary or High,Secondary or High
+RB0407,No,Unknown,No,Secondary or High,No education
+RB0408,No,No,Yes,Primary,No education
+RB0409,No,No,No,No education,Primary
+RB0410,No,No,Unknown,Secondary or High,Secondary or High
+RB0411,Yes,No,No,Primary,Secondary or High
+RB0412,No,No,Yes,Primary,Primary
+RB0413,No,Unknown,No,No education,Secondary or High
+RB0414,No,Yes,Unknown,Secondary or High,Secondary or High
+RB0415,No,No,Yes,Secondary or High,Primary
+RB0416,No,Unknown,No,Secondary or High,Primary
+RB0417,No,No,No,No education,Secondary or High
+RB0418,No,No,Unknown,Secondary or High,Secondary or High
+RB0419,Unknown,Yes,Yes,Primary,Secondary or High
+RB0420,No,No,No,Secondary or High,Secondary or High
+RB0421,No,No,Yes,Primary,No education
+RB0422,Unknown,No,No,Primary,Secondary or High
+RB0423,No,No,No,Primary,Primary
+RB0424,No,No,No,Primary,Secondary or High
+RB0425,No,No,No,Secondary or High,Primary
+RB0426,Yes,No,Unknown,Secondary or High,Primary
+RB0427,Yes,No,Unknown,Secondary or High,Primary
+RB0428,No,No,No,Primary,Secondary or High
+RB0429,No,Yes,No,Primary,Secondary or High
+RB0430,Yes,Yes,No,Primary,Primary
+RB0431,Unknown,Yes,No,Primary,No education
+RB0432,No,No,Yes,Secondary or High,Primary
+RB0433,No,No,No,Primary,Secondary or High
+RB0434,No,Unknown,No,No education,Secondary or High
+RB0435,Yes,Unknown,Yes,Secondary or High,Secondary or High
+RB0436,No,No,Yes,Secondary or High,Primary
+RB0437,No,Yes,No,No education,Primary
+RB0438,Yes,No,No,Primary,Primary
+RB0439,No,No,No,Primary,Secondary or High
+RB0440,Unknown,No,No,Secondary or High,Primary
+RB0441,No,No,No,Primary,Secondary or High
+RB0442,No,No,No,Primary,No education
+RB0443,No,Unknown,No,Secondary or High,Secondary or High
+RB0444,No,No,Yes,Primary,Primary
+RB0445,No,No,No,No education,Secondary or High
+RB0446,Yes,No,No,Primary,Secondary or High
+RB0447,Yes,No,No,Secondary or High,Secondary or High
+RB0448,No,No,No,Secondary or High,Primary
+RB0449,No,Yes,No,Secondary or High,Secondary or High
+RB0450,Unknown,No,Yes,Primary,Secondary or High
+RB0451,Unknown,No,No,Primary,Secondary or High
+RB0452,No,No,No,Primary,Primary
+RB0453,Unknown,No,Yes,Secondary or High,Secondary or High
+RB0454,No,No,No,Primary,Primary
+RB0455,No,No,Unknown,Primary,No education
+RB0456,No,No,Yes,Primary,Secondary or High
+RB0457,No,No,Unknown,No education,Secondary or High
+RB0458,Unknown,No,Yes,Primary,Primary
+RB0459,No,No,No,Primary,Secondary or High
+RB0460,Yes,No,No,Secondary or High,Secondary or High
+RB0461,No,No,No,Primary,Primary
+RB0462,No,Yes,Yes,Primary,Secondary or High
+RB0463,Yes,Yes,No,Secondary or High,Secondary or High
+RB0464,Unknown,No,No,Secondary or High,Secondary or High
+RB0465,Yes,No,Yes,Primary,Primary
+RB0466,No,No,Yes,No education,No education
+RB0467,No,No,Yes,Secondary or High,Secondary or High
